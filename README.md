@@ -22,10 +22,3 @@ A estrutura do projeto é a seguinte:
 - Go (Golang)
 - Gorilla Mux (para gerenciamento de rotas)
 
-## Como Executar o Projeto
-
-### Pré-requisitos
-
-- Go instalado em sua máquina. Você pode baixá-lo em [golang.org](https://golang.org/dl/).
-
-### Instalação
